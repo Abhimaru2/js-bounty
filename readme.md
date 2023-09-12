@@ -1,8 +1,4 @@
-```sh
-cd dillinger
-npm i
-node app
-```
+Go to [Website](https://pankaj-js-bounty.netlify.app).
 
 This markdown document provides an overview of how I integrated JavaScript classes, try-catch statements, and switch statements into the calculator project, highlighting their roles in creating a robust and user-friendly calculator.
 
